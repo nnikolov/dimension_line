@@ -15,10 +15,10 @@ Example
 	var angle = Math.PI/8
 	var length = 10
 	var style = 2
-	starting point (x1, y1) of dimension line
+	//starting point (x1, y1) of dimension line
 	var x1 = 35
 	var y1 = 75
-	ending point (x2, y2) of dimension line
+	//ending point (x2, y2) of dimension line
 	var x2 = 25
 	var y2 = 249
 	var label = '12"15/16'
