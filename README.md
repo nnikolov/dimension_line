@@ -22,9 +22,9 @@ Example
 	var x2 = 25
 	var y2 = 249
 	var label = '12"15/16'
-        // Initialize a dimension line with a given angle, length, and style
+	// Initialize a dimension line with a given angle, length, and style
 	var dimension_line = new DimensionLine(angle, length, style);
-        // Draw the line using the given coordinates and label
+	// Draw the line using the given coordinates and label
 	dimension_line.draw(x1, y1, x2, x2, label);
 
 Arrowheads based on http://www.dbp-consulting.com/tutorials/canvas/CanvasArrow.html
